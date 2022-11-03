@@ -1,0 +1,74 @@
+[
+	{
+       "title":"Why We Use <br> Element",
+       "answer_1":"To Make Text Bold",
+       "answer_2":"To Make Text Italic",
+       "answer_3":"To Add Breakline",
+       "answer_4":"To Create Horizontal Line",
+       "right_answer":"answer_3"
+
+	},
+	{
+       "title":" Is <img> Element Has Exists Attribute href",
+       "answer_1":"Yes",
+       "answer_2":"No Its For Anchor Tag <a>",
+       "answer_3":"All Element Hs This Attribute",
+       "answer_4":"Answer1 And 3 Is Right",
+       "right_answer":"answer_2"
+
+	},
+	{
+       "title":" How Can We Make Element Text Bold",
+       "answer_1":"Putting It Inside <b> Tag",
+       "answer_2":"Putting It Inside <strong> Tag",
+       "answer_3":"Customizing It with Font-Weight Proerty In Css",
+       "answer_4":"All Answers Is Right",
+       "right_answer":"answer_4"
+
+	},
+	{
+       "title":"How Can We Include External Page Inside Our Html Page",
+       "answer_1":"By Using Include In HTML",
+       "answer_2":"By Using Load In HTML",
+       "answer_3":"By Using iFrame Tag",
+       "answer_4":"All Solutions Is Wrong",
+       "right_answer":"answer_3"
+
+	},
+	{
+       "title":"How We Specify Document Type Of HTML5 Page",
+       "answer_1":"DOCTYPE html",
+       "answer_2":"DOCTYPE html5",
+       "answer_3":"<!DOCTYPE html5>",
+       "answer_4":"<!DOCTYPE html>",
+       "right_answer":"answer_4"
+
+	},
+	{
+       "title":"What Is Element Thats Exists in Html5 Semantics",
+       "answer_1":"<artical>",
+       "answer_2":"<section>",
+       "answer_3":"<blockquote>",
+       "answer_4":"<aside>",
+       "right_answer":"answer_3"
+
+	},
+	{
+       "title":"What Is Tha Tag That Not Exists in Html5",
+       "answer_1":"<object>",
+       "answer_2":"<basefont>",
+       "answer_3":"<abbr>",
+       "answer_4":"All Tags Exists In HTML",
+       "right_answer":"answer_4"
+
+	},
+	{
+       "title":"In Html Can we Use this Way To Add Attributes",
+       "answer_1":"<div class ' class-name'>",
+       "answer_2":"<div class  class-name>",
+       "answer_3":"<div class \"class-name\">",
+       "answer_4":"All Is Right",
+       "right_answer":"answer_4"
+
+	}
+]
